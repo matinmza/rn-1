@@ -25,7 +25,8 @@
     "redux": "^4.2.0",
     "redux-thunk": "^2.4.1",
     "expo-sqlite": "~10.3.0",
-    "expo-location": "~14.3.0"
+    "expo-location": "~14.3.0",
+    "expo-updates": "~0.14.6"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
